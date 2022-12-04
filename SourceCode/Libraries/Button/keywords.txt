@@ -1,0 +1,6 @@
+Button KEYWORD1
+isPressed KEYWORD2
+setPullUp KEYWORD2
+setExecAtRelease KEYWORD2
+setDebounceTime KEYWORD2
+setFunction KEYWORD2
